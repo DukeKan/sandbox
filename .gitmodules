@@ -1,0 +1,6 @@
+[submodule "authmicroservice"]
+	path = authmicroservice
+	url = https://github.com/DukeKan/authmicroservice.git
+[submodule "Notes"]
+	path = Notes
+	url = https://github.com/DukeKan/Notes.git
